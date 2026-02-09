@@ -46,8 +46,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name: Pavitra J
-### Register Number: 212224110043
+### Name: MUGIL RAJ S A
+### Register Number: 212223220062
 ```
 python
 class Neuralnet(nn.Module):
