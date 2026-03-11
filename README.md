@@ -175,9 +175,6 @@ except ValueError:
 
 ### Training Loss Vs Iteration Plot
 
-<img width="1024" height="825" alt="image" src="https://github.com/user-attachments/assets/3a0c8c37-7e41-453a-b61f-b007e3d99776" />
-
-
 
 ### New Sample Data Prediction
 
