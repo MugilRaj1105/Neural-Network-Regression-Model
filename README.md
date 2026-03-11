@@ -169,23 +169,17 @@ except ValueError:
 <img width="214" height="252" alt="image" src="https://github.com/user-attachments/assets/9ea7f318-c782-4837-9716-34ce6503e6d1" />
 
 
-## OUTPUT
-
-
-
 ### Epoch Loss
 
 <img width="363" height="239" alt="image" src="https://github.com/user-attachments/assets/df277346-74e0-4965-a155-9600bde953c4" />
 
 ### Training Loss Vs Iteration Plot
 
-
 <img width="1024" height="825" alt="image" src="https://github.com/user-attachments/assets/3a0c8c37-7e41-453a-b61f-b007e3d99776" />
 
 
 
 ### New Sample Data Prediction
-
 
 <img width="365" height="44" alt="image" src="https://github.com/user-attachments/assets/39944c16-093d-4479-b048-f8a24a5c0fc0" />
 
