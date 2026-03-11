@@ -1,6 +1,6 @@
 # Developing a Neural Network Regression Model
-## NAME:SANJITH R
-## REG NO:212223230191
+## NAME:MUGIL RAJ S A
+## REG NO:212223220062
 ## AIM
 
 To develop a neural network regression model for the given dataset.
